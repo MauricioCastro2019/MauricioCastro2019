@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mauricio Banquells Castro
 
-<!--
-**MauricioCastro2019/MauricioCastro2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer in progress · Systems Builder · AI-Augmented Creator
 
-Here are some ideas to get you started:
+I build real-world digital tools that connect operations, creativity, and practical problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- HMV Digital — hospital operations and inventory systems
+- RealG4Wash OS — workflow and service operations for a car wash business
+- ScanStock — barcode-based inventory scanner app
+
+## Stack I'm working with
+- Python
+- Flask
+- SQLite
+- HTML / CSS / JavaScript
+- Git / GitHub
+
+## What drives me
+I’m interested in building useful software, turning ideas into systems, and combining human creativity with AI to create tools that solve real problems.
+
+## Current goal
+Become a strong software builder capable of working with companies and building my own products.
+
+---
+Building step by step. With intention, curiosity, and real execution.
